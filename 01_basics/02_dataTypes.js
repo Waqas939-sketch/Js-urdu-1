@@ -27,3 +27,6 @@ let isloggedIN = false/true  // this is boolen data type
 
 console.log(typeof undefined);  //outof terminal is undefined
 console.log(typeof null); //  terminal result is object
+
+
+// ECMA SCRIPT IS THE BEST WAY TO LEARN CODINGS
