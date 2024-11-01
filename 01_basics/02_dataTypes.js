@@ -1,4 +1,4 @@
-"use strict"; // treat all js code as newer vrsion in jawa scripit
+"use strict"; // treat all js code as newer version in jawa scripit
 
 // alert (3 + 3)  // we are using node js, not browser
 
@@ -26,4 +26,4 @@ let isloggedIN = false/true  // this is boolen data type
 // object 
 
 console.log(typeof undefined);  //outof terminal is undefined
-console.log(typeof null); //  terminal result is object 
+console.log(typeof null); //  terminal result is object
